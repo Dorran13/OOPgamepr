@@ -10,8 +10,7 @@ namespace _0407gamepr
     {
         public static void Home()
         {
-            Console.Write("간단한 턴제 전투게임 시뮬레이션/t");
-            Console.WriteLine("feat 장비 망겜");
+            
         }
         
     }
