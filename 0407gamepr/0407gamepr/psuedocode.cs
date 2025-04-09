@@ -2,6 +2,14 @@
 {
     class PsuedoCode
     {
+        //Title
+        //***********************************
+        //* 간단한 텍스트 기반 턴제전투게임 *
+        //***********************************
+        //()
+        //아무키나 누르시면 시작합니다
+
+
         // 집 : H scene home
         // 1. 맵
         // #########
@@ -65,6 +73,8 @@
         // class main
         // start, run, end
         // class game
+        // scene dictionary
+        // curScene
         // class scene
         // home, shop, field, boss, slime, goblin, orc
         // class player
